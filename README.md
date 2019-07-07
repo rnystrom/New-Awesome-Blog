@@ -1,3 +1,3 @@
 # New-Awesome-Blog
 
-Hello, world!
+Stay tuned!
