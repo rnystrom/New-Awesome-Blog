@@ -1,3 +1,3 @@
-# New-Awesome-Blog
+# New Awesome Blog
 
 Stay tuned!

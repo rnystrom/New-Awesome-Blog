@@ -1,6 +1,7 @@
 ---
-title: Hello world
 layout: post
+author: ryannystrom
+title: Hello world!
 ---
 
 Hello, world!

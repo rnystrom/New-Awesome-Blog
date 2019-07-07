@@ -1,5 +1,6 @@
-theme: jekyll-theme-cayman
 title: New Awesome Blog
-description: Stay tuned!
-url: https://rnystrom.github.io/New-Awesome-Blog/
-github_username: rnystrom
+author: Ryan Nystrom
+twitter_username: rnystrom
+theme: minima
+plugins:
+  - jekyll-feed
