@@ -7,5 +7,3 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 github_username: rnystrom
 markdown: rdiscount
 highlighter: pygments
-paginate: 10
-paginate_path: "/blog/:num/"
