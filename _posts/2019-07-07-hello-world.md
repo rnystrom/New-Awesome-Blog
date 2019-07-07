@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Hello world
-date: 2019-07-07
-author: rnystrom
+layout: post
 ---
 
 Hello, world!
